@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: da3ea3e770c09eb49a966d4a4793ad42
+guid: 03ff71d17593c5943b9b987664e559f9
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,28 +123,28 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fox_sprite_0
+      name: Khong_Co_Tieu_e16_20240711125409_0
       rect:
         serializedVersion: 2
         x: 215
         y: 3322
-        width: 1168
-        height: 1445
+        width: 1158
+        height: 1413
       alignment: 9
-      pivot: {x: 0.8853856, y: 0.88528734}
+      pivot: {x: 0.83578235, y: 0.86691314}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d8d72fc161b4def459c61f2c311ca3ae
-      internalID: -1868268419
+      spriteID: ed27aa4089526af4a97fe1a373dcbf9a
+      internalID: 2099414043
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fox_sprite_1
+      name: Khong_Co_Tieu_e16_20240711125409_1
       rect:
         serializedVersion: 2
         x: 1730
@@ -152,152 +152,26 @@ TextureImporter:
         width: 1413
         height: 1006
       alignment: 9
-      pivot: {x: 0.19820297, y: 0.18207818}
+      pivot: {x: 0.30243167, y: 0.19276917}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7346448b8e71744b91c8e28055f4801
-      internalID: -1837075146
+      spriteID: 3cddef40b46f0334b84705a234917d7f
+      internalID: -1760201336
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fox_sprite_2
+      name: Khong_Co_Tieu_e16_20240711125409_2
       rect:
         serializedVersion: 2
         x: 3317
         y: 4066
         width: 549
         height: 803
-      alignment: 9
-      pivot: {x: 0.6510359, y: 0.32298073}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9e1dfd8e52144734db6b62764e9e5d61
-      internalID: -1738468403
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fox_sprite_3
-      rect:
-        serializedVersion: 2
-        x: 4039
-        y: 4457
-        width: 401
-        height: 398
-      alignment: 9
-      pivot: {x: 0.52953917, y: 0.1726111}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aedc0b3d69b6e3f4e94f70bb3ffc556e
-      internalID: -1425440831
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fox_sprite_4
-      rect:
-        serializedVersion: 2
-        x: 4052
-        y: 3944
-        width: 765
-        height: 337
-      alignment: 9
-      pivot: {x: 0.3296722, y: 0.81634974}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 38f8a81330c530e429254c77b798510a
-      internalID: -1125414155
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fox_sprite_5
-      rect:
-        serializedVersion: 2
-        x: 2618
-        y: 2972
-        width: 838
-        height: 736
-      alignment: 9
-      pivot: {x: 0.38691598, y: 0.85407853}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1d91791f59a097f479d61605ba287ff3
-      internalID: 1314540120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fox_sprite_7
-      rect:
-        serializedVersion: 2
-        x: 3998
-        y: 3502
-        width: 403
-        height: 208
-      alignment: 9
-      pivot: {x: 0.23545879, y: 0.9555969}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dd25e1cfaa7f48747b5e669210b9fb5b
-      internalID: -240973375
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fox_sprite_8
-      rect:
-        serializedVersion: 2
-        x: 3601
-        y: 2582
-        width: 748
-        height: 778
-      alignment: 9
-      pivot: {x: 0.3733096, y: 0.8197382}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 20b36323a9df92f40883929cbbaf7cce
-      internalID: -168560709
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fox_sprite_10
-      rect:
-        serializedVersion: 2
-        x: 241
-        y: 1666
-        width: 2288
-        height: 1503
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -305,77 +179,224 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b5e2a4cd33199c41906b8da6d98e37f
-      internalID: 149551989
+      spriteID: 3bbd1df0eae1c96448a29e792c39a605
+      internalID: -1451065553
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fox_sprite_11
+      name: Khong_Co_Tieu_e16_20240711125409_3
       rect:
         serializedVersion: 2
-        x: 2640
-        y: 1190
-        width: 703
-        height: 932
-      alignment: 9
-      pivot: {x: 0.5428906, y: 0.86395633}
+        x: 4039
+        y: 4457
+        width: 401
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df7b5c05650fc6a4289dfe8952b3b22a
-      internalID: -1140179608
+      spriteID: 6ac71a952cd3c9342b6535ce9e8abe26
+      internalID: -814302881
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fox_sprite_12
+      name: Khong_Co_Tieu_e16_20240711125409_4
       rect:
         serializedVersion: 2
-        x: 3431
-        y: 1570
-        width: 940
-        height: 860
-      alignment: 9
-      pivot: {x: 0.74057305, y: 0.88566214}
+        x: 4052
+        y: 3944
+        width: 765
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0bab51c9f759fe5438d2f502735c8e3e
-      internalID: -537755273
+      spriteID: 72dd6ebeec7837a499d9c3ae22bf2650
+      internalID: 1806158378
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fox_sprite_13
+      name: Khong_Co_Tieu_e16_20240711125409_5
       rect:
         serializedVersion: 2
-        x: 336
-        y: 1202
-        width: 400
-        height: 220
+        x: 2770
+        y: 3226
+        width: 437
+        height: 347
       alignment: 9
-      pivot: {x: 0.38523674, y: 0.7503934}
+      pivot: {x: 0.40302423, y: 0.64248383}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a706ef3699c303499b331cf78db26f7
-      internalID: -290768343
+      spriteID: 8b96af96e01fec74db243710d0de28c2
+      internalID: -2083251446
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fox_sprite_14
+      name: Khong_Co_Tieu_e16_20240711125409_6
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 2753
+        width: 789
+        height: 1035
+      alignment: 9
+      pivot: {x: 0.31583813, y: 0.8226598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa9b303040ad01429a7c2269f0101cd
+      internalID: -771993766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khong_Co_Tieu_e16_20240711125409_7
+      rect:
+        serializedVersion: 2
+        x: 4343
+        y: 2829
+        width: 492
+        height: 898
+      alignment: 9
+      pivot: {x: 0.52026564, y: 0.7886686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4883a402574373045b736c21bf5089b2
+      internalID: -700491421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khong_Co_Tieu_e16_20240711125409_8
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1666
+        width: 2288
+        height: 1497
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab393dde67984e449d467d2d7fdf1b3
+      internalID: -1857404077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khong_Co_Tieu_e16_20240711125409_9
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 2826
+        width: 368
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3531fc2c14208ca42a54de316c5cfb48
+      internalID: 292798954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khong_Co_Tieu_e16_20240711125409_10
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 2313
+        width: 459
+        height: 340
+      alignment: 9
+      pivot: {x: 0.35794154, y: 0.6917782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79725facccb11b418e98c9661749082
+      internalID: -1698228837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khong_Co_Tieu_e16_20240711125409_11
+      rect:
+        serializedVersion: 2
+        x: 3383
+        y: 1774
+        width: 651
+        height: 876
+      alignment: 9
+      pivot: {x: 0.5500811, y: 0.83495593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68b173978652514fa0ca189b8c87ae3
+      internalID: 1285440718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khong_Co_Tieu_e16_20240711125409_12
+      rect:
+        serializedVersion: 2
+        x: 4310
+        y: 1796
+        width: 471
+        height: 742
+      alignment: 9
+      pivot: {x: 0.47692743, y: 0.8222156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d21b1290a00f24092f4b4018524956
+      internalID: 17413645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khong_Co_Tieu_e16_20240711125409_13
       rect:
         serializedVersion: 2
         x: 1000
@@ -389,14 +410,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f05bea485ad50e04089410c1fd6d9634
-      internalID: -241597047
+      spriteID: be2bf8301cbfe5e458fa5386f643f5db
+      internalID: 1078751704
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fox_sprite_15
+      name: Khong_Co_Tieu_e16_20240711125409_14
       rect:
         serializedVersion: 2
         x: 1520
@@ -410,14 +431,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: acb46ce775ec109479b407cb7a61f2f4
-      internalID: 692993257
+      spriteID: 00434c0a1dab8164685b5b69eec340b7
+      internalID: -429924431
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fox_sprite_16
+      name: Khong_Co_Tieu_e16_20240711125409_15
       rect:
         serializedVersion: 2
         x: 2142
@@ -431,134 +452,155 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43c9e17dd4f36dc45ae71d421eb21abd
-      internalID: -864804399
+      spriteID: 420dc7dce4192564aa15cdb0ac252310
+      internalID: 1039262162
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fox_sprite_17
+      name: Khong_Co_Tieu_e16_20240711125409_16
       rect:
         serializedVersion: 2
-        x: 3969
-        y: 1207
-        width: 400
-        height: 218
+        x: 2738
+        y: 995
+        width: 437
+        height: 346
       alignment: 9
-      pivot: {x: 0.31155336, y: 0.67288965}
+      pivot: {x: 0.42539576, y: 0.6256343}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7235d295755959041ae094de7a16c302
-      internalID: 1624530654
+      spriteID: d25b0128c65a23d47bac8991c7d091a3
+      internalID: 81189922
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fox_sprite_18
+      name: Khong_Co_Tieu_e16_20240711125409_17
       rect:
         serializedVersion: 2
-        x: 177
-        y: 143
-        width: 940
-        height: 862
+        x: 3297
+        y: 521
+        width: 789
+        height: 1035
       alignment: 9
-      pivot: {x: 0.80099195, y: 0.84698397}
+      pivot: {x: 0.29490918, y: 0.75493896}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ab4abf22363b5e488aeab39c2b605b8
-      internalID: 2005509954
+      spriteID: 242845dd262023642869ec5feb178b49
+      internalID: -905295828
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fox_sprite_19
+      name: Khong_Co_Tieu_e16_20240711125409_18
       rect:
         serializedVersion: 2
-        x: 1239
-        y: 94
-        width: 747
-        height: 779
+        x: 4311
+        y: 598
+        width: 490
+        height: 897
       alignment: 9
-      pivot: {x: 0.4293636, y: 0.838675}
+      pivot: {x: 0.5887147, y: 0.88769084}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc829aea69e6672479e1a483fe3fa32c
-      internalID: -196192261
+      spriteID: ebb074bfaab71cc4e939cca48b40bffb
+      internalID: -1020369246
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fox_sprite_20
+      name: Khong_Co_Tieu_e16_20240711125409_19
       rect:
         serializedVersion: 2
-        x: 2206
-        y: 118
-        width: 703
-        height: 931
+        x: 324
+        y: 658
+        width: 461
+        height: 337
       alignment: 9
-      pivot: {x: 0.52144545, y: 0.86434734}
+      pivot: {x: 0.45089608, y: 0.6679295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7b754fb891182445b7547e36e4d109c
-      internalID: 64621822
+      spriteID: 04a47f140c6634743bb4cb8b48dd2e5f
+      internalID: -241229677
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fox_sprite_21
+      name: Khong_Co_Tieu_e16_20240711125409_20
       rect:
         serializedVersion: 2
-        x: 3063
-        y: 172
-        width: 837
-        height: 741
+        x: 997
+        y: 116
+        width: 652
+        height: 876
       alignment: 9
-      pivot: {x: 0.45497108, y: 0.81535244}
+      pivot: {x: 0.53471947, y: 0.9005399}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02460b14bc0e2ae4480e77bc273129fc
-      internalID: -1316306787
+      spriteID: 8bab1e174d60e8e48867e467ece7cc81
+      internalID: -654654646
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fox_sprite_23
+      name: Khong_Co_Tieu_e16_20240711125409_21
       rect:
         serializedVersion: 2
-        x: 3962
-        y: 814
-        width: 404
-        height: 205
+        x: 1925
+        y: 138
+        width: 474
+        height: 742
       alignment: 9
-      pivot: {x: 0.22012722, y: 0.7941641}
+      pivot: {x: 0.4522427, y: 0.95762044}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 025dbec710ce53842b6db6deb396611c
-      internalID: 189815848
+      spriteID: 69f625b6666a4ea428201f89e3fb7eea
+      internalID: 2037139564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khong_Co_Tieu_e16_20240711125409_22
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 592
+        width: 363
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8eb070f30e34849b8c42da6f2dacef
+      internalID: 1838709304
       vertices: []
       indices: 
       edges: []
@@ -574,31 +616,29 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      fox_sprite_0: -1868268419
-      fox_sprite_1: -1837075146
-      fox_sprite_10: 149551989
-      fox_sprite_11: -1140179608
-      fox_sprite_12: -537755273
-      fox_sprite_13: -290768343
-      fox_sprite_14: -241597047
-      fox_sprite_15: 692993257
-      fox_sprite_16: -864804399
-      fox_sprite_17: 1624530654
-      fox_sprite_18: 2005509954
-      fox_sprite_19: -196192261
-      fox_sprite_2: -1738468403
-      fox_sprite_20: 64621822
-      fox_sprite_21: -1316306787
-      fox_sprite_22: -1127607963
-      fox_sprite_23: 189815848
-      fox_sprite_24: 426279657
-      fox_sprite_3: -1425440831
-      fox_sprite_4: -1125414155
-      fox_sprite_5: 1314540120
-      fox_sprite_6: -1138200654
-      fox_sprite_7: -240973375
-      fox_sprite_8: -168560709
-      fox_sprite_9: 1974565843
+      Khong_Co_Tieu_e16_20240711125409_0: 2099414043
+      Khong_Co_Tieu_e16_20240711125409_1: -1760201336
+      Khong_Co_Tieu_e16_20240711125409_10: -1698228837
+      Khong_Co_Tieu_e16_20240711125409_11: 1285440718
+      Khong_Co_Tieu_e16_20240711125409_12: 17413645
+      Khong_Co_Tieu_e16_20240711125409_13: 1078751704
+      Khong_Co_Tieu_e16_20240711125409_14: -429924431
+      Khong_Co_Tieu_e16_20240711125409_15: 1039262162
+      Khong_Co_Tieu_e16_20240711125409_16: 81189922
+      Khong_Co_Tieu_e16_20240711125409_17: -905295828
+      Khong_Co_Tieu_e16_20240711125409_18: -1020369246
+      Khong_Co_Tieu_e16_20240711125409_19: -241229677
+      Khong_Co_Tieu_e16_20240711125409_2: -1451065553
+      Khong_Co_Tieu_e16_20240711125409_20: -654654646
+      Khong_Co_Tieu_e16_20240711125409_21: 2037139564
+      Khong_Co_Tieu_e16_20240711125409_22: 1838709304
+      Khong_Co_Tieu_e16_20240711125409_3: -814302881
+      Khong_Co_Tieu_e16_20240711125409_4: 1806158378
+      Khong_Co_Tieu_e16_20240711125409_5: -2083251446
+      Khong_Co_Tieu_e16_20240711125409_6: -771993766
+      Khong_Co_Tieu_e16_20240711125409_7: -700491421
+      Khong_Co_Tieu_e16_20240711125409_8: -1857404077
+      Khong_Co_Tieu_e16_20240711125409_9: 292798954
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
